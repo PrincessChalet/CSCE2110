@@ -1,0 +1,12 @@
+Here's how I would compile and run my List implementation of sets.
+
+        g++ *.C *cpp
+        ./a.out > output
+
+
+Send me an email if/when you have questions about compiling/running my 
+program.
+
+           Chalet
+           chaletshelton@my.unt.edu
+
