@@ -1,0 +1,9 @@
+I have not chosen the larger program.
+
+To compile:
+
+g++ ClassScheduler.cpp
+./a.out < <input file>
+
+*** I am including the test.txt file that I used to create the schedule, so the <input file> would be test.txt.
+This program schedules classes into rooms for either 50 minutes or 90 minuets on MWF or TR.

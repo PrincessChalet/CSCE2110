@@ -1,0 +1,25 @@
+1030 435
+1040 345
+2100 97
+2110 159
+B185 130
+B192 48
+B142 48
+B140 48
+Day of Week      Room#     Class     Number of Students    Total           Time
+MWF              B185       1030      130                    130         8:00am-8:50am
+TUTHR            B185       1030      130                    260         8:00am-9:20am
+MWF              B192       1030      48                    308         9:00am-9:50am
+TUTHR            B192       1030      48                    356         9:30am-10:50am
+MWF              B142       1030      48                    404         10:00am-10:50am
+MWF              B185       1040      130                    130         11:00am-11:50am
+TUTHR            B185       1040      130                    260         11:00am-12:20pm
+MWF              B192       1040      48                    308         12:00pm-12:50pm
+MWF              B142       2100      48                    48         1:00pm-1:50pm
+TUTHR            B142       2100      48                    96         12:30pm-1:50pm
+MWF              B185       2100      130                    226         2:00pm-2:50pm
+MWF              B192       2110      48                    48         3:00pm-3:50pm
+TUTHR            B192       2110      48                    96         2:00pm-3:20pm
+MWF              B142       2110      48                    144         4:00pm-4:50pm
+Number of Classes: 4
+Number of Rooms: 3
